@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 I am an aspiring Backend Developer and an Electrical and Computer Engineering (ECE) student at the University of Seoul.
+
+---
+
 <br>
 
 <h3 align="center">🛠️ Tech Stack </h3>

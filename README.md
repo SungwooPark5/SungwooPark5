@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 I am an aspiring Backend Developer and an Electrical and Computer Engineering (ECE) student at the University of Seoul.
-
 <br>
 
 ### 🛠️ Tech Stack
@@ -24,7 +23,6 @@ I am an aspiring Backend Developer and an Electrical and Computer Engineering (E
 
 **DevOps**  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-
 <br>
 
 ### 📫 How to reach me:

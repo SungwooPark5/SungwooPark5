@@ -31,6 +31,7 @@ I am an aspiring Backend Developer and an Electrical and Computer Engineering (E
 
 <h3 align="center"> 📫 How to reach me</h3>
 <p align="center">
+  <a href="mailto:swpark.biz@gmail.com">contact@swpark.dev</a>
   <a href="mailto:swpark.biz@gmail.com">swpark.biz@gmail.com</a>
 </p>
 

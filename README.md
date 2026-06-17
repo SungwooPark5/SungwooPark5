@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am an aspiring Backend Developer and an Electrical and Computer Engineering (ECE) student at the University of Seoul.
+I am an aspiring AI Engineer and an Electrical and Computer Engineering (ECE) student at the University of Seoul.
 
 ---
 
